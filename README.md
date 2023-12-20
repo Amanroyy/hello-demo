@@ -1,3 +1,4 @@
 # hello-demo
-This is a demo repo <br>
-Author - Aman Roy 
+Author - Aman Roy
+<br>
+This is a demo repo 
