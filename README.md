@@ -1,4 +1,4 @@
 # hello-demo
-Author - Aman Roy
+Author - AmanRoyy
 <br>
 This is a demo repo 
